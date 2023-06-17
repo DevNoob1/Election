@@ -1,0 +1,76 @@
+.upper {
+    /* border: 2px solid firebrick; */
+    background-image: linear-gradient(rgb(244, 189, 87), white);
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    height: 15vh;
+    margin: 0%;
+
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-github {
+    /* background: #5db3f5; */
+    color: black;
+}
+
+.election {
+    align-content: center;
+    height: 15vh;
+}
+
+.socials {
+    padding-right: 3%;
+    padding-top: 1%;
+    height: 15vh;
+}
+
+.mid {
+    /* border: 2px solid firebrick; */
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-image: linear-gradient(white, #e8d1bf);
+}
+
+/* 
+.pics {
+    height: 60vh;
+
+
+} */
+
+.evote,
+.location,
+.candidate,
+.data {
+    padding-top: 5%;
+}
+
+.evote {
+    padding-left: 3%;
+}
+
+.data {
+    padding-right: 3%;
+}
+
+
+.bottom {
+    margin: 0%;
+    /* border: 2px solid firebrick; */
+    height: 35vh;
+    background-image: linear-gradient(#eecfb7, #61fa69);
+    text-align: center;
+    font-size: xx-large;
+}
